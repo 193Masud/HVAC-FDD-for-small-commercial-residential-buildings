@@ -1,0 +1,1 @@
+For the analysis and building model for the sake of HVAC FDD we need historical dataset for ML model training and to generate data we can use either Brick or Openstudio for this purpose.
